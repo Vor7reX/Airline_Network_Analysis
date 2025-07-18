@@ -4,7 +4,7 @@ This project analyzes the global airline network to identify key airports using 
 
 The analysis is based on the **OpenFlights dataset** and utilizes various Python libraries for data manipulation, network analysis, and visualization. The final report provides a detailed overview of the methodology and findings.
 
-![Visual representation of the global flight network](plots/world_plot.png)
+![Visual representation of the global flight network](plot/world_plot.png)
 
 ***
 
@@ -35,15 +35,15 @@ Here are some key visualizations from the analysis that illustrate the findings.
 
 ### Correlation between Degree and Betweenness Centrality
 [cite_start]This plot shows the positive relationship between the number of connections an airport has (Degree) and its strategic importance as a bridge in the network (Betweenness)[cite: 491, 522].
-![Scatter plot showing the correlation between Degree and Betweenness Centrality](plots/Scatter_Plot_with_Regression_and_Area.png)
+![Scatter plot showing the correlation between Degree and Betweenness Centrality](plot/Scatter_Plot_with_Regression_and_Area.png)
 
 ### Top 50 Airports by Number of Routes
 [cite_start]This bar chart clearly shows the dominance of airports like ATL and ORD, which have the highest number of flight routes[cite: 326].
-![Bar chart of the top 50 airports by Degree Centrality](plots/Degree_Centrality_Bar_Chart_Top_50.png)
+![Bar chart of the top 50 airports by Degree Centrality](plot/Degree_Centrality_Bar_Chart_Top_50.png)
 
 ### The Network's Strategic Bridges
 [cite_start]This map highlights the airports with the highest Betweenness Centrality, showing their crucial role in connecting different parts of the globe[cite: 473, 475].
-![Map highlighting airports with high Betweenness Centrality](plots/Betweenness_Centrality.png)
+![Map highlighting airports with high Betweenness Centrality](plot/Betweenness_Centrality.png)
 
 ***
 
