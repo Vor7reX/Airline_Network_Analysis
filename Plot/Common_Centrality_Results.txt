@@ -1,0 +1,9 @@
+Airports in both Top 10 by Betweenness Centrality and Degree Centrality:
+1. Airport: PEK (Beijing Capital International Airport), Betweenness Centrality: 0.0777, Degree Centrality: 0.1388
+2. Airport: ATL (Hartsfield Jackson Atlanta International Airport), Betweenness Centrality: 0.0648, Degree Centrality: 0.2151
+3. Airport: FRA (Frankfurt am Main International Airport), Betweenness Centrality: 0.0518, Degree Centrality: 0.1244
+4. Airport: AMS (Amsterdam Airport Schiphol), Betweenness Centrality: 0.0579, Degree Centrality: 0.1214
+5. Airport: CDG (Charles de Gaulle International Airport), Betweenness Centrality: 0.0611, Degree Centrality: 0.1262
+6. Airport: ORD (Chicago O'Hare International Airport), Betweenness Centrality: 0.0555, Degree Centrality: 0.1815
+7. Airport: LHR (London Heathrow Airport), Betweenness Centrality: 0.0775, Degree Centrality: 0.1286
+8. Airport: LAX (Los Angeles International Airport), Betweenness Centrality: 0.1346, Degree Centrality: 0.1394

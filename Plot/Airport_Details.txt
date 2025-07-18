@@ -1,0 +1,19 @@
+Dettagli degli aeroporti:
+
+Aeroporti comuni (sia in Betweenness che Degree Centrality):
+  - AMS: Amsterdam Airport Schiphol
+  - ORD: Chicago O'Hare International Airport
+  - ATL: Hartsfield Jackson Atlanta International Airport
+  - PEK: Beijing Capital International Airport
+  - LAX: Los Angeles International Airport
+  - LHR: London Heathrow Airport
+  - FRA: Frankfurt am Main International Airport
+  - CDG: Charles de Gaulle International Airport
+
+Aeroporti solo in Degree Centrality:
+  - DEN: Denver International Airport
+  - VIE: Vienna International Airport
+
+Aeroporti solo in Betweenness Centrality:
+  - SIN: Singapore Changi Airport
+  - ANC: Ted Stevens Anchorage International Airport

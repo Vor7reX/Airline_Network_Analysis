@@ -1,0 +1,11 @@
+Top 10 Airports by Betweenness Centrality:
+1. Airport: LAX (Los Angeles International Airport), Centrality: 0.1346
+2. Airport: SIN (Singapore Changi Airport), Centrality: 0.0829
+3. Airport: PEK (Beijing Capital International Airport), Centrality: 0.0777
+4. Airport: LHR (London Heathrow Airport), Centrality: 0.0775
+5. Airport: ANC (Ted Stevens Anchorage International Airport), Centrality: 0.0759
+6. Airport: ATL (Hartsfield Jackson Atlanta International Airport), Centrality: 0.0648
+7. Airport: CDG (Charles de Gaulle International Airport), Centrality: 0.0611
+8. Airport: AMS (Amsterdam Airport Schiphol), Centrality: 0.0579
+9. Airport: ORD (Chicago O'Hare International Airport), Centrality: 0.0555
+10. Airport: FRA (Frankfurt am Main International Airport), Centrality: 0.0518

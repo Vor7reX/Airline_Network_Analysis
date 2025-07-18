@@ -1,0 +1,11 @@
+Top 10 Airports by Eigenvector Centrality:
+1. Airport: ATL (Hartsfield Jackson Atlanta International Airport), Centrality: 0.2433
+2. Airport: ORD (Chicago O'Hare International Airport), Centrality: 0.2067
+3. Airport: LHR (London Heathrow Airport), Centrality: 0.1900
+4. Airport: LAX (Los Angeles International Airport), Centrality: 0.1861
+5. Airport: YYZ (Lester B. Pearson International Airport), Centrality: 0.1636
+6. Airport: JFK (John F Kennedy International Airport), Centrality: 0.1614
+7. Airport: CDG (Charles de Gaulle International Airport), Centrality: 0.1591
+8. Airport: EWR (Newark Liberty International Airport), Centrality: 0.1575
+9. Airport: AMS (Amsterdam Airport Schiphol), Centrality: 0.1436
+10. Airport: FRA (Frankfurt am Main International Airport), Centrality: 0.1409

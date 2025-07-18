@@ -1,0 +1,11 @@
+Top 10 Airports by Degree Centrality:
+1. Airport: ATL (Hartsfield Jackson Atlanta International Airport), Centrality: 0.2151
+2. Airport: ORD (Chicago O'Hare International Airport), Centrality: 0.1815
+3. Airport: LAX (Los Angeles International Airport), Centrality: 0.1394
+4. Airport: PEK (Beijing Capital International Airport), Centrality: 0.1388
+5. Airport: VIE (Vienna International Airport), Centrality: 0.1322
+6. Airport: DEN (Denver International Airport), Centrality: 0.1316
+7. Airport: LHR (London Heathrow Airport), Centrality: 0.1286
+8. Airport: CDG (Charles de Gaulle International Airport), Centrality: 0.1262
+9. Airport: FRA (Frankfurt am Main International Airport), Centrality: 0.1244
+10. Airport: AMS (Amsterdam Airport Schiphol), Centrality: 0.1214
